@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sortingreact/static/css/main.c287c575.chunk.css",
+    "main.js": "/sortingreact/static/js/main.95ef54f3.chunk.js",
+    "main.js.map": "/sortingreact/static/js/main.95ef54f3.chunk.js.map",
+    "runtime-main.js": "/sortingreact/static/js/runtime-main.80fec9eb.js",
+    "runtime-main.js.map": "/sortingreact/static/js/runtime-main.80fec9eb.js.map",
+    "static/js/2.fe4b3c41.chunk.js": "/sortingreact/static/js/2.fe4b3c41.chunk.js",
+    "static/js/2.fe4b3c41.chunk.js.map": "/sortingreact/static/js/2.fe4b3c41.chunk.js.map",
+    "index.html": "/sortingreact/index.html",
+    "static/css/main.c287c575.chunk.css.map": "/sortingreact/static/css/main.c287c575.chunk.css.map",
+    "static/js/2.fe4b3c41.chunk.js.LICENSE.txt": "/sortingreact/static/js/2.fe4b3c41.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/sortingreact/static/media/logo.2d27ead7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80fec9eb.js",
+    "static/js/2.fe4b3c41.chunk.js",
+    "static/css/main.c287c575.chunk.css",
+    "static/js/main.95ef54f3.chunk.js"
+  ]
+}
